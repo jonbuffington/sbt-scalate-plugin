@@ -2,4 +2,5 @@ lib_managed/
 project/boot/
 project/plugins/*_managed/
 project/plugins/project/
+tests/project/plugins/project/
 target/
